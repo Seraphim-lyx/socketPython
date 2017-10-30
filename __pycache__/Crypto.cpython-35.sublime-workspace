@@ -1,0 +1,1436 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"soc",
+				"socketserver〔module〕"
+			],
+			[
+				"time",
+				"timeout"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"tim",
+				"timeout"
+			],
+			[
+				"ha",
+				"handle"
+			],
+			[
+				"hand",
+				"handle_request"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"pa",
+				"packet_No"
+			],
+			[
+				"p",
+				"packet_No"
+			],
+			[
+				"cl",
+				"clientsocket〔variable〕"
+			],
+			[
+				"Di",
+				"SOCK_DGRAM〔variable〕"
+			],
+			[
+				"AF",
+				"AF_INET〔variable〕"
+			],
+			[
+				"s",
+				"socket〔class〕"
+			],
+			[
+				"d",
+				"DatagramRequestHandler〔class〕"
+			],
+			[
+				"r",
+				"round"
+			],
+			[
+				"c",
+				"clock〔function〕"
+			],
+			[
+				"str",
+				"__str__〔function〕"
+			],
+			[
+				"set",
+				"settimeout〔function〕"
+			],
+			[
+				"su",
+				"super〔class〕"
+			],
+			[
+				"print",
+				"print〔function〕"
+			],
+			[
+				"e",
+				"encryptMsg〔variable〕"
+			],
+			[
+				"dec",
+				"decryptMsg"
+			],
+			[
+				"en",
+				"encryptMsg"
+			],
+			[
+				"fi",
+				"filename〔argument〕"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"1",
+				"127.0.0.1"
+			],
+			[
+				"th",
+				"threads〔variable〕"
+			],
+			[
+				"sock",
+				"SocketServer〔module〕"
+			],
+			[
+				"def",
+				"defs\tMethod"
+			],
+			[
+				"T",
+				"True"
+			],
+			[
+				"de",
+				"decode"
+			],
+			[
+				"t",
+				"Thread〔class〕"
+			],
+			[
+				"ob",
+				"obj〔variable〕"
+			],
+			[
+				"byte",
+				"bytes〔class〕"
+			],
+			[
+				"cal",
+				"calendar〔module〕"
+			],
+			[
+				"ver",
+				"version_info〔variable〕"
+			],
+			[
+				"pri",
+				"print〔function〕"
+			],
+			[
+				"b",
+				"set() -> new empty set object"
+			],
+			[
+				"get",
+				"getList"
+			],
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"f",
+				"for\tFor Loop"
+			],
+			[
+				"__i",
+				"__iter__〔function〕"
+			],
+			[
+				"list",
+				"listd〔variable〕"
+			],
+			[
+				"test",
+				"test3"
+			],
+			[
+				"tes",
+				"test3"
+			],
+			[
+				"te",
+				"test3"
+			],
+			[
+				"loc",
+				"locksingleton\tclass"
+			],
+			[
+				"lo",
+				"locksingleton\tclass"
+			],
+			[
+				"i",
+				"inc\t#include <…>"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"l",
+				"locksingleton\tclass"
+			],
+			[
+				"si",
+				"singletonfactory\tclass"
+			],
+			[
+				"sin",
+				"singleton"
+			],
+			[
+				"sinl",
+				"singletonfactory\tclass"
+			],
+			[
+				"Sin",
+				"singleton"
+			],
+			[
+				"sing",
+				"singletonfactory\tclass"
+			],
+			[
+				"inc",
+				"inc\t#include <…>"
+			],
+			[
+				"sinleton",
+				"singletonfactory"
+			],
+			[
+				"ex",
+				"extend2()\tconstructor"
+			],
+			[
+				"ab",
+				"abstractfactory\tclass"
+			],
+			[
+				"base",
+				"basefactory\tclass"
+			],
+			[
+				"istr",
+				"istringstream\ttypedef"
+			],
+			[
+				"line",
+				"line\tstring"
+			],
+			[
+				"nu",
+				"nullptr_t\ttypedef"
+			],
+			[
+				"g",
+				"getInstance()\tfileManager *"
+			],
+			[
+				"fil",
+				"fileManager\tclass"
+			],
+			[
+				"file",
+				"fileManager()\tconstructor"
+			],
+			[
+				"Fi",
+				"fileManager"
+			],
+			[
+				"make_sha",
+				"make_shared<typename _Tp>(_Args &&__args...)\tshared_ptr<_Tp>"
+			],
+			[
+				"NO",
+				"Node_CPP"
+			],
+			[
+				"m",
+				"myTree_H"
+			],
+			[
+				"my",
+				"myTree_CPP"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/seraphimlyx/code/python/socketProject/UDPClient.py",
+			"settings":
+			{
+				"buffer_size": 1319,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/seraphimlyx/code/python/socketProject/HeartBeatClient.py",
+			"settings":
+			{
+				"buffer_size": 383,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/seraphimlyx/code/python/socketProject/MyUDPServer.py",
+			"settings":
+			{
+				"buffer_size": 791,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/seraphimlyx/code/python/socketProject/test.py",
+			"settings":
+			{
+				"buffer_size": 306,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/usr/lib/python3.5/threading.py",
+			"settings":
+			{
+				"buffer_size": 48918,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/seraphimlyx/code/python/crypto/AESCrypto.py",
+			"settings":
+			{
+				"buffer_size": 13,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/usr/lib/python3.5/socketserver.py",
+			"settings":
+			{
+				"buffer_size": 24666,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 208.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"subl",
+				"Preferences: SublimeClang Settings – User"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/seraphimlyx/code/python/socketProject"
+	],
+	"file_history":
+	[
+		"/usr/lib/python3.5/selectors.py",
+		"/usr/lib/python3.5/queue.py",
+		"/home/seraphimlyx/code/python/socketProject/UDPServer.py",
+		"/home/seraphimlyx/code/python/socketProject/test.py",
+		"/home/seraphimlyx/code/python/socketProject/myHttp.py",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/Xdebug.sublime-settings",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/home/seraphimlyx/code/python/socketProject/myServie",
+		"/home/seraphimlyx/code/python/socketProject/myService.py",
+		"/home/seraphimlyx/code/python/socketProject/myClient.py",
+		"/home/seraphimlyx/code/python/socketProject/client.py",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/DocBlockr/Base File.sublime-settings",
+		"/home/seraphimlyx/code/python/test/dir/test3.py",
+		"/home/seraphimlyx/code/python/test/test2.py",
+		"/home/seraphimlyx/code/python/test/dir/main2.py",
+		"/home/seraphimlyx/test.py",
+		"/home/seraphimlyx/code/python/test/main.py",
+		"/home/seraphimlyx/code/python/test/client.py",
+		"/home/seraphimlyx/.bash.profile",
+		"/etc/environment",
+		"/home/seraphimlyx/.profile",
+		"/home/seraphimlyx/.bash_profile",
+		"/home/seraphimlyx/code/python/test/test.py",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
+		"/home/seraphimlyx/code/python/test/server.py",
+		"/home/seraphimlyx/code/cpp/DesignMode/Singleton/src/locksingleton.cpp",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/python3.sublime-build",
+		"/usr/share/applications/pycharm.desktop",
+		"/home/seraphimlyx/code/python/test/dir/__init__.py",
+		"/home/seraphimlyx/code/python/test/test",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/SublimeCodeIntel/Default (Linux).sublime-keymap",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/Python.sublime-settings",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/Anaconda/README.md",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/SublimeCodeIntel/Default (Linux).sublime-mousemap",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/Pylinter/Pylinter.sublime-settings",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/Pylinter.sublime-settings",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/seraphimlyx/code/cpp/DesignMode/factory/simplefactory/main.cpp",
+		"/home/seraphimlyx/code/cpp/DesignMode/Singleton/main.cpp",
+		"/home/seraphimlyx/code/cpp/DesignMode/Singleton/include/singleton.h",
+		"/home/seraphimlyx/code/cpp/DesignMode/Singleton/src/singleton.cpp",
+		"/home/seraphimlyx/code/cpp/DesignMode/Singleton/include/locksingleton.h",
+		"/home/seraphimlyx/code/cpp/DesignMode/Singleton/include/lockVersion",
+		"/home/seraphimlyx/code/cpp/DesignMode/factory/simplefactory/include/extend2.h",
+		"/home/seraphimlyx/code/cpp/DesignMode/factory/simplefactory/src/extend1.cpp",
+		"/home/seraphimlyx/code/cpp/DesignMode/factory/simplefactory/src/simplefactory.cpp",
+		"/home/seraphimlyx/code/cpp/DesignMode/factory/simplefactory/src/base.cpp",
+		"/home/seraphimlyx/code/cpp/DesignMode/factory/simplefactory/src/extend2.cpp",
+		"/home/seraphimlyx/code/cpp/DesignMode/factory/simplefactory/include/simplefactory.h",
+		"/home/seraphimlyx/code/cpp/DesignMode/factory/include/base.h",
+		"/home/seraphimlyx/code/cpp/test/src/fileManager.cpp",
+		"/home/seraphimlyx/code/cpp/test/include/fileManager.h",
+		"/home/seraphimlyx/code/cpp/test/include/myTree.h",
+		"/home/seraphimlyx/code/cpp/test/include/Node.h",
+		"/home/seraphimlyx/code/cpp/test/源1.cpp",
+		"/home/seraphimlyx/code/cpp/test/test",
+		"/home/seraphimlyx/code/cpp/test/src/myTree.cpp",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/g++.sublime-build",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/c++.sublime-build",
+		"/home/seraphimlyx/code/cpp/test/src/Node.cpp",
+		"/home/seraphimlyx/code/cpp/test/yuan2.cpp",
+		"/home/seraphimlyx/code/cpp/test/src/aa.cpp",
+		"/home/seraphimlyx/code/cpp/test/yuan2",
+		"/home/seraphimlyx/code/cpp/test/test3.cpp",
+		"/home/seraphimlyx/code/cpp/test/myTree",
+		"/home/seraphimlyx/code/cpp/test/test3",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/c++.",
+		"/home/seraphimlyx/code/cpp/test/myTree.h",
+		"/home/seraphimlyx/code/cpp/test/yuan.cpp",
+		"/home/seraphimlyx/code/cpp/test/Node.h",
+		"/home/seraphimlyx/code/cpp/test/Node.cpp",
+		"/opt/sublime_text/Packages/C++.sublime-package",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/c++2.sublime-build",
+		"/home/seraphimlyx/code/cpp/test/myTree.cpp",
+		"/home/seraphimlyx/code/cpp/test/源2.cpp",
+		"/home/seraphimlyx/code/cpp/test/源.cpp",
+		"/home/seraphimlyx/code/nodejs/nodetest/config/index.js",
+		"/home/seraphimlyx/cpp/cp.c",
+		"/home/seraphimlyx/cpp/test.c",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/SublimeClang.sublime-settings",
+		"/home/seraphimlyx/cp.c",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/cpp.sublime-build",
+		"/home/seraphimlyx/test",
+		"/opt/apache-tomcat-7.0.79/bin/catalina.sh",
+		"/home/seraphimlyx/download/new",
+		"/download/new",
+		"/home/seraphimlyx/new",
+		"/download",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"threadingmixin",
+			"mixin",
+			"min",
+			"TCPServer",
+			"ThreadingMix",
+			"Threading",
+			"ThreadingTCPSe"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"self",
+			"urllib",
+			"host",
+			"\t\n",
+			"pass"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/seraphimlyx/code/python/socketProject/UDPClient.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1319,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								402,
+								402
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"is_init_dirty_state": false,
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 198.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/seraphimlyx/code/python/socketProject/HeartBeatClient.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"is_init_dirty_state": false,
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/seraphimlyx/code/python/socketProject/MyUDPServer.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 791,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								547,
+								547
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										546,
+										547
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										528,
+										529
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"is_init_dirty_state": false,
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 396.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/seraphimlyx/code/python/socketProject/test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								305,
+								305
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										305,
+										306
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										291,
+										292
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/usr/lib/python3.5/threading.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 48918,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								190,
+								190
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/seraphimlyx/code/python/crypto/AESCrypto.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"is_init_dirty_state": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/usr/lib/python3.5/socketserver.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24666,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19827,
+								19827
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 13728.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 198.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/python3.sublime-build",
+	"project": "Crypto.cpython-35.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 125.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

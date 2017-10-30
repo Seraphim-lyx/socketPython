@@ -1,0 +1,537 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"su",
+				"super〔class〕"
+			],
+			[
+				"p",
+				"pubKey"
+			],
+			[
+				"print",
+				"print〔function〕"
+			],
+			[
+				"d",
+				"decryptMsg〔variable〕"
+			],
+			[
+				"e",
+				"encryptMsg〔variable〕"
+			],
+			[
+				"dec",
+				"decryptMsg"
+			],
+			[
+				"en",
+				"encryptMsg"
+			],
+			[
+				"fi",
+				"filename〔argument〕"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"1",
+				"127.0.0.1"
+			],
+			[
+				"th",
+				"threads〔variable〕"
+			],
+			[
+				"sock",
+				"SocketServer〔module〕"
+			],
+			[
+				"def",
+				"defs\tMethod"
+			],
+			[
+				"T",
+				"True"
+			],
+			[
+				"de",
+				"decode"
+			],
+			[
+				"t",
+				"Thread〔class〕"
+			],
+			[
+				"ob",
+				"obj〔variable〕"
+			],
+			[
+				"byte",
+				"bytes〔class〕"
+			],
+			[
+				"cal",
+				"calendar〔module〕"
+			],
+			[
+				"tim",
+				"timeit"
+			],
+			[
+				"ver",
+				"version_info〔variable〕"
+			],
+			[
+				"pri",
+				"print〔function〕"
+			],
+			[
+				"b",
+				"set() -> new empty set object"
+			],
+			[
+				"get",
+				"getList"
+			],
+			[
+				"__",
+				"__instance"
+			],
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"f",
+				"for\tFor Loop"
+			],
+			[
+				"__i",
+				"__iter__〔function〕"
+			],
+			[
+				"list",
+				"listd〔variable〕"
+			],
+			[
+				"test",
+				"test3"
+			],
+			[
+				"tes",
+				"test3"
+			],
+			[
+				"te",
+				"test3"
+			],
+			[
+				"loc",
+				"locksingleton\tclass"
+			],
+			[
+				"lo",
+				"locksingleton\tclass"
+			],
+			[
+				"i",
+				"inc\t#include <…>"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"l",
+				"locksingleton\tclass"
+			],
+			[
+				"si",
+				"singletonfactory\tclass"
+			],
+			[
+				"sin",
+				"singleton"
+			],
+			[
+				"sinl",
+				"singletonfactory\tclass"
+			],
+			[
+				"Sin",
+				"singleton"
+			],
+			[
+				"sing",
+				"singletonfactory\tclass"
+			],
+			[
+				"inc",
+				"inc\t#include <…>"
+			],
+			[
+				"sinleton",
+				"singletonfactory"
+			],
+			[
+				"ex",
+				"extend2()\tconstructor"
+			],
+			[
+				"ab",
+				"abstractfactory\tclass"
+			],
+			[
+				"base",
+				"basefactory\tclass"
+			],
+			[
+				"istr",
+				"istringstream\ttypedef"
+			],
+			[
+				"line",
+				"line\tstring"
+			],
+			[
+				"cl",
+				"close()\tvoid"
+			],
+			[
+				"c",
+				"close()\tvoid"
+			],
+			[
+				"nu",
+				"nullptr_t\ttypedef"
+			],
+			[
+				"g",
+				"getInstance()\tfileManager *"
+			],
+			[
+				"fil",
+				"fileManager\tclass"
+			],
+			[
+				"file",
+				"fileManager()\tconstructor"
+			],
+			[
+				"Fi",
+				"fileManager"
+			],
+			[
+				"make_sha",
+				"make_shared<typename _Tp>(_Args &&__args...)\tshared_ptr<_Tp>"
+			],
+			[
+				"NO",
+				"Node_CPP"
+			],
+			[
+				"m",
+				"myTree_H"
+			],
+			[
+				"my",
+				"myTree_CPP"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 208.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"subl",
+				"Preferences: SublimeClang Settings – User"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/seraphimlyx/code/python/socketProject/myHttp.py",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/Xdebug.sublime-settings",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/home/seraphimlyx/code/python/socketProject/myServie",
+		"/home/seraphimlyx/code/python/socketProject/myService.py",
+		"/home/seraphimlyx/code/python/socketProject/myClient.py",
+		"/home/seraphimlyx/code/python/socketProject/client.py",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/DocBlockr/Base File.sublime-settings",
+		"/home/seraphimlyx/code/python/test/dir/test3.py",
+		"/home/seraphimlyx/code/python/test/test2.py",
+		"/home/seraphimlyx/code/python/test/dir/main2.py",
+		"/home/seraphimlyx/test.py",
+		"/home/seraphimlyx/code/python/test/main.py",
+		"/home/seraphimlyx/code/python/test/client.py",
+		"/home/seraphimlyx/.bash.profile",
+		"/etc/environment",
+		"/home/seraphimlyx/.profile",
+		"/home/seraphimlyx/.bash_profile",
+		"/home/seraphimlyx/code/python/test/test.py",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
+		"/home/seraphimlyx/code/python/test/server.py",
+		"/home/seraphimlyx/code/cpp/DesignMode/Singleton/src/locksingleton.cpp",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/python3.sublime-build",
+		"/usr/share/applications/pycharm.desktop",
+		"/home/seraphimlyx/code/python/test/dir/__init__.py",
+		"/home/seraphimlyx/code/python/test/test",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/SublimeCodeIntel/Default (Linux).sublime-keymap",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/Python.sublime-settings",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/Anaconda/README.md",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/SublimeCodeIntel/Default (Linux).sublime-mousemap",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/Pylinter/Pylinter.sublime-settings",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/Pylinter.sublime-settings",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/seraphimlyx/code/cpp/DesignMode/factory/simplefactory/main.cpp",
+		"/home/seraphimlyx/code/cpp/DesignMode/Singleton/main.cpp",
+		"/home/seraphimlyx/code/cpp/DesignMode/Singleton/include/singleton.h",
+		"/home/seraphimlyx/code/cpp/DesignMode/Singleton/src/singleton.cpp",
+		"/home/seraphimlyx/code/cpp/DesignMode/Singleton/include/locksingleton.h",
+		"/home/seraphimlyx/code/cpp/DesignMode/Singleton/include/lockVersion",
+		"/home/seraphimlyx/code/cpp/DesignMode/factory/simplefactory/include/extend2.h",
+		"/home/seraphimlyx/code/cpp/DesignMode/factory/simplefactory/src/extend1.cpp",
+		"/home/seraphimlyx/code/cpp/DesignMode/factory/simplefactory/src/simplefactory.cpp",
+		"/home/seraphimlyx/code/cpp/DesignMode/factory/simplefactory/src/base.cpp",
+		"/home/seraphimlyx/code/cpp/DesignMode/factory/simplefactory/src/extend2.cpp",
+		"/home/seraphimlyx/code/cpp/DesignMode/factory/simplefactory/include/simplefactory.h",
+		"/home/seraphimlyx/code/cpp/DesignMode/factory/include/base.h",
+		"/home/seraphimlyx/code/cpp/test/src/fileManager.cpp",
+		"/home/seraphimlyx/code/cpp/test/include/fileManager.h",
+		"/home/seraphimlyx/code/cpp/test/include/myTree.h",
+		"/home/seraphimlyx/code/cpp/test/include/Node.h",
+		"/home/seraphimlyx/code/cpp/test/源1.cpp",
+		"/home/seraphimlyx/code/cpp/test/test",
+		"/home/seraphimlyx/code/cpp/test/src/myTree.cpp",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/g++.sublime-build",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/c++.sublime-build",
+		"/home/seraphimlyx/code/cpp/test/src/Node.cpp",
+		"/home/seraphimlyx/code/cpp/test/yuan2.cpp",
+		"/home/seraphimlyx/code/cpp/test/src/aa.cpp",
+		"/home/seraphimlyx/code/cpp/test/yuan2",
+		"/home/seraphimlyx/code/cpp/test/test3.cpp",
+		"/home/seraphimlyx/code/cpp/test/myTree",
+		"/home/seraphimlyx/code/cpp/test/test3",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/c++.",
+		"/home/seraphimlyx/code/cpp/test/myTree.h",
+		"/home/seraphimlyx/code/cpp/test/yuan.cpp",
+		"/home/seraphimlyx/code/cpp/test/Node.h",
+		"/home/seraphimlyx/code/cpp/test/Node.cpp",
+		"/opt/sublime_text/Packages/C++.sublime-package",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/c++2.sublime-build",
+		"/home/seraphimlyx/code/cpp/test/myTree.cpp",
+		"/home/seraphimlyx/code/cpp/test/源2.cpp",
+		"/home/seraphimlyx/code/cpp/test/源.cpp",
+		"/home/seraphimlyx/code/nodejs/nodetest/config/index.js",
+		"/home/seraphimlyx/cpp/cp.c",
+		"/home/seraphimlyx/cpp/test.c",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/SublimeClang.sublime-settings",
+		"/home/seraphimlyx/cp.c",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/cpp.sublime-build",
+		"/home/seraphimlyx/test",
+		"/opt/apache-tomcat-7.0.79/bin/catalina.sh",
+		"/home/seraphimlyx/download/new",
+		"/download/new",
+		"/home/seraphimlyx/new",
+		"/download",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/seraphimlyx/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"self",
+			"urllib",
+			"host",
+			"\t\n",
+			"pass"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/python3.sublime-build",
+	"project": "server.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 125.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
